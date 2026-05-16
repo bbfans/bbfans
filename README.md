@@ -11,9 +11,6 @@
 <a href="https://1001020.xyz">
   <img src="https://img.shields.io/badge/1001020.xyz-blue?style=flat-square" alt="1001020.xyz" />
 </a>
-<a href="https://bbfans.github.io/bbfans">
-  <img src="https://img.shields.io/badge/bbfans.github.io-000?style=flat-square&logo=github" alt="bbfans.github.io (project page)" />
-</a>
 
 ---
 
@@ -57,5 +54,4 @@ LLM APIs · Bifrost Gateway
 <!--
   bbfans · Jan 2013 · 13 yrs · 94 repos · 3 followers · 9 following · built2026
   1001020.xyz — personal blog (Cloudflare Workers · KV · blog.1001020.xyz)
-  bbfans.github.io/bbfans — GitHub Pages project page (bbfans/bbfans)
 -->

@@ -7,7 +7,8 @@
 ![Followers](https://img.shields.io/github/followers/bbfans?style=social)
 
 <!-- Homepage -->
-[![Homepage](https://img.shields.io/badge/bbfans.github.io-000?style=flat&logo=github&logoColor=white)](https://bbfans.github.io)
+[![bbfans.github.io](https://img.shields.io/badge/bbfans-github.io-000?style=flat&logo=github&logoColor=white)](https://bbfans.github.io)
+[![1001020.xyz](https://img.shields.io/badge/1001020.xyz-000?style=flat&logo=cloudflare&logoColor=white)](https://1001020.xyz)
 
 ---
 

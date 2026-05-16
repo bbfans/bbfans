@@ -9,14 +9,15 @@
 
 <!-- Homepage badges -->
 <a href="https://1001020.xyz">
-  <img src="https://img.shields.io/badge/1001020.xyz-000?style=flat&logo=cloudflare&logoColor=white" alt="1001020.xyz" />
+  <img src="https://img.shields.io/badge/1001020.xyz-blue?style=flat-square" alt="1001020.xyz" />
 </a>
-<a href="https://bbfans.github.io">
-  <img src="https://img.shields.io/badge/bbfans-github.io-000?style=flat&logo=github&logoColor=white" alt="bbfans.github.io" />
+<a href="https://bbfans.github.io/bbfans">
+  <img src="https://img.shields.io/badge/bbfans.github.io-000?style=flat-square&logo=github" alt="bbfans.github.io (project page)" />
 </a>
 
 ---
 
+<!-- github-profile-card · bbfans -->
 <div id="gh-card-bbfans" style="font-family:system-ui,-apple-system,sans-serif;max-width:420px;border:1px solid #e5e7eb;border-radius:12px;padding:20px;margin:16px 0;background:#fafafa;box-shadow:0 1px 4px rgba(0,0,0,.08)">
   <div style="display:flex;align-items:center;gap:16px;margin-bottom:14px">
     <img src="https://avatars.githubusercontent.com/u/3355514?v=4" width="64" height="64" style="border-radius:50%;border:2px solid #e5e7eb" alt="@bbfans" />
@@ -40,6 +41,7 @@
     <span style="font-weight:700;color:#111">9</span><span style="color:#888"> following</span>
   </div>
 </div>
+
 ---
 
 ## 🛠 Tech Stack
@@ -54,6 +56,6 @@ LLM APIs · Bifrost Gateway
 
 <!--
   bbfans · Jan 2013 · 13 yrs · 94 repos · 3 followers · 9 following · built2026
-  1001020.xyz — personal blog (Cloudflare Workers .KV.  blog.1001020.xyz)
-  bbfans.github.io — GitHub Pages profile
+  1001020.xyz — personal blog (Cloudflare Workers · KV · blog.1001020.xyz)
+  bbfans.github.io/bbfans — GitHub Pages project page (bbfans/bbfans)
 -->

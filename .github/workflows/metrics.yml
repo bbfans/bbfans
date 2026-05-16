@@ -1,0 +1,51 @@
+name: GitHub Metrics
+on:
+  schedule:
+    - cron: "7 * * * *"
+  workflow_dispatch:
+  push:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: America/Toronto
+
+          # ── plugins ───────────────────────────────────────────────────
+          plugin_achievements: yes
+          plugin_achievements_threshold: B
+          plugin_activity: yes
+          plugin_code: yes
+          plugin_gists: yes
+          plugin_habits: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_lines: yes
+          plugin_notable: yes
+          plugin_notable_repositories: yes
+          plugin_stars: yes
+          plugin_title: yes
+          plugin_total_contributions: yes
+          plugin_traffic: yes
+
+          # ── activity limits ───────────────────────────────────────────
+          days_of_activity: 365
+          commits_limit: 500
+          plugin_activity_filter: all
+
+          # ── code highlight ────────────────────────────────────────────
+          plugin_code_loading: symbols
+          plugin_code_languages: yes
+          plugin_code_lines: yes
+          plugin_code_recent: yes
+
+          # ── blacklist placeholder repos from notable (inject later) ───
+          base: header, activity, community, repositories, metadata
+          order: details, languages, achievements, activity, habits, notable
+          config_display:
+            large_fontsize: 40
+            small_fontsize: 20
+            colors: copilot

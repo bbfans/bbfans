@@ -6,6 +6,9 @@
 ![Stars](https://img.shields.io/github/stars/bbfans?style=social)
 ![Followers](https://img.shields.io/github/followers/bbfans?style=social)
 
+<!-- Homepage -->
+[![Homepage](https://img.shields.io/badge/bbfans.github.io-000?style=flat&logo=github&logoColor=white)](https://bbfans.github.io)
+
 ---
 
 <!-- github-profile-card · bbfans · built2026 -->
@@ -20,12 +23,8 @@
   </div>
 
   <div style="display:flex;gap:8px;flex-wrap:wrap">
-    <a href="https://github.com/bbfans" style="text-decoration:none">
-      <span style="background:#24292e;color:#fff;border-radius:20px;padding:3px 10px;font-size:12px;font-weight:600">GitHub</span>
-    </a>
-    <a href="https://skillicons.dev/icons?i=ai" target="_blank" style="text-decoration:none">
-      <span style="background:#1a73e8;color:#fff;border-radius:20px;padding:3px 10px;font-size:12px;font-weight:600">AI</span>
-    </a>
+    <span style="background:#24292e;color:#fff;border-radius:20px;padding:3px 10px;font-size:12px;font-weight:600">GitHub</span>
+    <span style="background:#1a73e8;color:#fff;border-radius:20px;padding:3px 10px;font-size:12px;font-weight:600">AI</span>
     <span style="background:#f57c00;color:#fff;border-radius:20px;padding:3px 10px;font-size:12px;font-weight:600">Canada</span>
     <span style="background:#1565c0;color:#fff;border-radius:20px;padding:3px 10px;font-size:12px;font-weight:600">Open Source</span>
     <span style="background:#00897b;color:#fff;border-radius:20px;padding:3px 10px;font-size:12px;font-weight:600">MIT</span>
@@ -37,6 +36,7 @@
     <div><div style="font-weight:700;font-size:18px;color:#111">9</div><div style="color:#888;font-size:11px">Following</div></div>
   </div>
 </div>
+
 ---
 
 ## 🛠 Tech Stack
@@ -48,11 +48,6 @@ Cloudflare Workers · KV · R2
 Docker / Podman
 LLM APIs · Bifrost Gateway
 ```
-
-## 🔗 Connect
-
-[![icons](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg)](https://github.com/bbfans)
-[![icons](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/ai.svg)](https://github.com/features/copilot)
 
 <!--
   bbfans · January 2013 · 13 yrs · 94 repos · 3 followers · 9 following · built2026

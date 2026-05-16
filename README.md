@@ -6,7 +6,13 @@
 ![Followers](https://img.shields.io/github/followers/bbfans?style=social)
 ![Repos](https://img.shields.io/github/repos/bbfans?style=social)
 
-[![AI](https://skillicons.dev/icons?i=ai)](https://github.com/bbfans)
-[![github](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg)](https://github.com/bbfans)
+<p align="left">
+  <a href="https://github.com/bbfans">
+    <img src="https://skillicons.dev/icons?i=ai" width="18" height="18" />
+  </a>
+  <a href="https://github.com/bbfans">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="18" height="18" />
+  </a>
+</p>
 
-<!-- bbfans · January 2013 · 13 years · 94 repos · 3 followers · 9 following · built2026 · metrics via .github/workflows/metrics.yml -->
+<!-- bbfans · January 2013 · 13 yrs · 94 repos · 3 followers · 9 following · built2026 -->
